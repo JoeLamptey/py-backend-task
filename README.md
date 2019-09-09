@@ -8,4 +8,4 @@ Running the Containers:
     They are stoped by docker-compose down.
 
 For interactive terminal to a service:
-    docker exec -it <name_of_image>
+    docker exec -it <name_of_image> sh
